@@ -21,7 +21,10 @@ You have to declare your activities in the manifest file
 
 # Declare intent filters
 
-Intent filters provide the ability to launch an activity.
+- An intent is a mmessage defined by an Intent object that describes an action to perform, including the data to be acted upon, the category componen that should perfomr the action, and other instructions.
+- Intent filters provide the ability to launch an activity.
+- App activities, services, and broadcast receivers are activated by intents.
+
 
 The request could be:
 
