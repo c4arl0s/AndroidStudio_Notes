@@ -51,10 +51,10 @@ The request could be:
 
 # Important files into the Project
 
-app > java > com.example.myfirstapp > MainActivity
-app > res > layout > activity_main.xml
-app > manifests > AndroidManifest.xml
-Gradle Scripts > build.gradle
+- app > java > com.example.myfirstapp > MainActivity
+- app > res > layout > activity_main.xml
+- app > manifests > AndroidManifest.xml
+- Gradle Scripts > build.gradle
 
 
 
