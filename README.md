@@ -44,7 +44,9 @@ The request could be:
 - onPause()
 - on 
 
-# 
+# Handle Activity state Changes
+
+
 
 
 
