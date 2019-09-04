@@ -36,10 +36,15 @@ The request could be:
 
 "Start a send Email screen in any activity that can do the job"
 
-# Activity Life Cicly
+# Activity Life Cycle
 
 - onCreate()
 - on Start()
 - onResume()
 - onPause()
 - on 
+
+# 
+
+
+
